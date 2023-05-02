@@ -6,6 +6,7 @@ print("hello ran this is the new js version, revised")
 book_list = BookList()
 all_customers = CustomerList()
 loan_list = LoanList()
+print("line 3")
 
 """
 Overall - very good project. clean and understandable code.
