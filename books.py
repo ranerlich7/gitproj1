@@ -1,6 +1,6 @@
 import json
 
-
+print("well done")
 class Book:
     def __init__(self, id, name, author, year_published, book_type):
         self.id = id
