@@ -2,7 +2,7 @@ from customers import CustomerList
 from books import BookList
 from loans import LoanList
 import json
-print("hello ran this is the new js version")
+print("hello ran this is the new js version, revised")
 book_list = BookList()
 all_customers = CustomerList()
 loan_list = LoanList()
