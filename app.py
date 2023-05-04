@@ -8,6 +8,7 @@ book_list = BookList()
 all_customers = CustomerList()
 loan_list = LoanList()
 print("line 3")
+print("gozrim")
 
 """
 Overall - very good project. clean and understandable code.
